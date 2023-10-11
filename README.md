@@ -1,5 +1,7 @@
 # ДЗ "8. EventSource, Websockets"
 
+[![Build status](https://ci.appveyor.com/api/projects/status/plfr38kxjejpu8yt?svg=true)](https://ci.appveyor.com/project/ElenaKars/ahj-8.1-chat)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
